@@ -100,7 +100,7 @@ grails.project.dependency.resolution = {
         compile ":browser-detection:2.2.0"  
         //compile ":spring-security-rest:1.4.1" 
 
-        compile ':spring-security-rest:1.5.0.RC2', {
+        compile ':spring-security-rest:1.5.0.RC3', {
                 excludes: 'spring-security-core'
         }      
         // Uncomment these (or add new ones) to enable additional resources capabilities
